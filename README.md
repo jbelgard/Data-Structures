@@ -48,6 +48,8 @@ Stretch Goals:
  
 ![Image of Doubly Linked List](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/610px-Doubly-linked-list.svg.png)
 
+
+ 
 ### Binary Search Trees
 * Should have the methods `insert`, `contains`, `get_max`.
   * `insert` adds the input value to the binary search tree, adhering to the rules of the ordering of elements in a binary search tree.
